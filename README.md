@@ -2,7 +2,7 @@
 
 Norns tty console.
 
-![[tty-console.log]]
+![](tty-console.png)
 
 Maps a tty to the framebuffer. Login, and command line unix action ensues!
 
